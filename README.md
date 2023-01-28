@@ -1,2 +1,2 @@
 # Invasion
- Invasion is a game based on classic game - Space Invaders 
+ Invasion is a video game based on classic game - Space Invaders 
